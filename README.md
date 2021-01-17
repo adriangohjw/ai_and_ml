@@ -14,7 +14,7 @@ Want to impress anyone instantly? Now you can add this gem to your project and s
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ai_and_mll'
+gem 'ai_and_ml'
 ```
 
 And then execute:
