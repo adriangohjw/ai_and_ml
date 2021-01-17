@@ -2,6 +2,13 @@
 
 Want to impress anyone instantly? Now you can add this gem to your project and says you use "AI and ML" in your project!
 
+## Some reasons why you should use this gem
+
+- It is super lightweight at 4KB only!
+- Impress investors and inflate your startup's valuation
+- Impress your future employers during interviews
+- Impress your crush
+
 ## Installation
 
 Add this line to your application's Gemfile:
