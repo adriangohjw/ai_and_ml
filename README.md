@@ -1,5 +1,9 @@
 # ai_and_ml 
 
+![Gem](https://img.shields.io/gem/v/ai_and_ml?style=plastic)
+![Gem](https://img.shields.io/gem/dt/ai_and_ml?style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/adriangohjw/ai_and_ml?style=plastic)
+
 Want to impress anyone instantly? Now you can add this gem to your project and says you use "AI and ML" in your project!
 
 ## Some reasons why you should use this gem
